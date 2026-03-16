@@ -1,0 +1,5 @@
+library/build/
+library/*.so
+library/*.egg-info/
+*.pyc
+__pycache__/
