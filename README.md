@@ -37,7 +37,7 @@ Enable I2C: sudo raspi-config nonint do_i2c 0
 ## Attribution
 
 - ST VL53L8CX ULD: https://github.com/ST-mirror/VL53L8CX_ULD_driver
-- Inspired by pimoroni/vl53l5cx-python (MIT)
+- Inspired by [pimoroni/vl53l5cx-python](https://github.com/pimoroni/vl53l5cx-python) (MIT)
 
 ## License
 
